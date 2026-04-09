@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on 万丈光阴</title>
+        <link>https://wanzhang010.github.io/categories/</link>
+        <description>Recent content in Categories on 万丈光阴</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>万丈光阴-wanzhang010</copyright>
+        <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wanzhang010.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Documentation</title>
+            <link>https://wanzhang010.github.io/categories/documentation/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>https://wanzhang010.github.io/categories/documentation/</guid>
+            <description>&lt;img src=&#34;https://wanzhang010.github.io/&#34; alt=&#34;Featured image of post Documentation&#34; /&gt;</description>
+        </item><item>
+            <title>Syntax</title>
+            <link>https://wanzhang010.github.io/categories/syntax/</link>
+            <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+            <guid>https://wanzhang010.github.io/categories/syntax/</guid>
+            <description></description>
+        </item><item>
+            <title>Themes</title>
+            <link>https://wanzhang010.github.io/categories/themes/</link>
+            <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+            <guid>https://wanzhang010.github.io/categories/themes/</guid>
+            <description></description>
+        </item></channel>
+</rss>
